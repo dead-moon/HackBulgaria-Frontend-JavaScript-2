@@ -1,0 +1,20 @@
+{
+  "name": "ng-full-todo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dead-moon/HackBulgaria-Frontend-JavaScript-2",
+  "authors": [
+    "dead-moon <v.alexieva@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.x"
+  }
+}

@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Hello Angular</title>
+</head>
+<body ng-app ng-controller="MainCtrl">
+    <form ng-submit="addTask(task)">
+        <label>Task:</label>
+        <input type="text" placeholder="Task Name" ng-model="task.name" />
+        <button>Add</button>
+    </form>
+
+    <ul>
+        <li ng-repeat="task in tasks track by $index">
+            <input type="checkbox" ng-model="task.finished" ng-change="taskFinish"/> 
+            {{task.name}} &nbsp;&nbsp;&nbsp;
+            <button ng-click="editTask($index)">edit</buton>
+            <button ng-click="removeTask($index)">del</buton>
+        </li>
+    </ul>
+    <script src="lib/angular/angular.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

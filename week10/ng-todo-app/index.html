@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>Hello Angular</title>
+</head>
+<body ng-app ng-init="tasks=[]">
+    <form ng-submit="tasks.push(task); task=''">
+        <label>Task:</label>
+        <input type="text" placeholder="Task Name" ng-model="task" />
+        <button >Add</button>
+    </form>
+
+    <ul>
+        <li ng-repeat="task in tasks track by $index">{{task}}</li>
+    </ul>
+    <script src="lib/angular/angular.js"></script>
+</body>
+</html>
