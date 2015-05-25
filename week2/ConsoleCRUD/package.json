@@ -1,0 +1,17 @@
+{
+  "name": "ConsoleCRUD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consoleCRUD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node consoleCRUD.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "jsonfile": "^2.0.0",
+    "prompt": "^0.2.14"
+  }
+}

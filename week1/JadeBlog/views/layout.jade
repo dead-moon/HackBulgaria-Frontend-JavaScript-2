@@ -1,0 +1,20 @@
+doctype html
+html
+	head
+		title My Webpage
+		meta(name="description", content = "My first jade rendered webpage")
+		link(rel="stylesheet", type="text/css", href="css/style.css")
+
+	body
+		.container
+			include common/header.jade		
+			
+			div
+				#content-container
+					
+					block content
+
+					include common/sidebar.jade
+		.clearfix
+
+		include common/footer.jade

@@ -1,0 +1,33 @@
+html
+	head
+		title Fantasy Art
+		link(rel="stylesheet", type="text/css", href="lib/bootstrap/dist/css/bootstrap.css")
+		link(rel="stylesheet", type="text/css", href="css/style.css")
+	body
+		// - header / nav barinclude 
+		#boxedWrappernavbar-inner		
+			.navbar.navbar-static-top
+				.navbar-inner 
+					.container
+						button(type="button", class="btn btn-navbar",data-toggle="collapse", data-target=".nav-collapse")
+							span.icon-bar
+							span.icon-bar
+							span.icon-bar
+						a(class="brand", href="index.html") Fantasy Art
+
+						.nav-collapse
+							ul.nav.pull-right
+								li: a(href="/artists") Artists
+								li: a(href="/tutorials") Tutorials
+			
+			.container
+				block content
+
+				.row.footer
+					.col-xs-12
+						p Some footer
+
+		
+		script(src="lib/jquery/dist/jquery.min.js")
+		script(src="lib/bootstrap/dist/js/bootstrap.js")
+		script(src="js/jquery.flexslider-min.js")

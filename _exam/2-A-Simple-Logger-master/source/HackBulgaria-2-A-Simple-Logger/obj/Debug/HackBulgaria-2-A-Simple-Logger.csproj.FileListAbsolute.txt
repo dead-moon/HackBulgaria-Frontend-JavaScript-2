@@ -1,0 +1,11 @@
+D:\_dev\HackBulgaria\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\bin\Debug\HackBulgaria-2-A-Simple-Logger.exe.config
+D:\training\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\bin\Debug\HackBulgaria-2-A-Simple-Logger.exe.config
+D:\training\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\bin\Debug\HackBulgaria-2-A-Simple-Logger.exe
+D:\training\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\bin\Debug\HackBulgaria-2-A-Simple-Logger.pdb
+D:\training\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\obj\Debug\HackBulgaria-2-A-Simple-Logger.csprojResolveAssemblyReference.cache
+D:\training\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\obj\Debug\HackBulgaria-2-A-Simple-Logger.exe
+D:\training\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\obj\Debug\HackBulgaria-2-A-Simple-Logger.pdb
+D:\_dev\HackBulgaria\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\obj\Debug\HackBulgaria-2-A-Simple-Logger.exe
+D:\_dev\HackBulgaria\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\obj\Debug\HackBulgaria-2-A-Simple-Logger.pdb
+D:\_dev\HackBulgaria\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\bin\Debug\HackBulgaria-2-A-Simple-Logger.exe
+D:\_dev\HackBulgaria\Frontend JS\2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\HackBulgaria-2-A-Simple-Logger\bin\Debug\HackBulgaria-2-A-Simple-Logger.pdb

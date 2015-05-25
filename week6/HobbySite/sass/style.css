@@ -1,0 +1,10 @@
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.img-slide,
+.thumbnail img {
+	display:block;
+	height: auto;
+	max-width: 100%;
+}

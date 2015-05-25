@@ -1,0 +1,33 @@
+html
+	head
+		title Bootstrap Shop
+		link(rel="stylesheet", type="text/css", href="lib/bootstrap/dist/css/bootstrap.css")
+		link(rel="stylesheet", type="text/css", href="lib/fontawesome/css/font-awesome.css")
+	body
+		// - header / nav barinclude 
+		.nav.navbar-default
+			.container-fluid
+				.navbar-header
+					button.navbar-toggle.collapsed(data-toggle="collapse",data-target="#my-menu")
+						i.fa.fa-bars
+					a(href="/").navbar-brand Bootstrap
+
+				.collapse.navbar-collapse#my-menu
+					ul.nav.navbar-nav.navbar-left
+						li: a(href="#")
+							i.fa.fa-star-o &nbsp;
+							| Promos
+					ul.nav.navbar-nav.navbar-right
+						li: a(href="/cart")
+							i.fa.fa-shopping-cart  &nbsp;
+							| View cart
+		
+		.container-fluid
+			.row
+				.col-xs-3
+					include sidebar.jade
+				.col-xs-9
+					block content
+		
+		script(src="lib/jquery/dist/jquery.min.js")
+		script(src="lib/bootstrap/dist/js/bootstrap.js")

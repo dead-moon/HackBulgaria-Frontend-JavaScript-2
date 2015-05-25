@@ -1,0 +1,6 @@
+header
+	h1: a(href="/") Jade Blog
+nav
+	ul.text-right
+		each el in main_menu
+			li: a(href="#{el.link}") #{el.title}

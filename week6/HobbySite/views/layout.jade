@@ -1,0 +1,26 @@
+html
+	head
+		title Fantasy Art
+		link(rel="stylesheet", type="text/css", href="lib/bootstrap/dist/css/bootstrap.css")
+		link(rel="stylesheet", type="text/css", href="css/style.css")
+	body
+		// - header / nav barinclude 
+		.nav
+			.container
+				a(href="/").logo
+					h1 Fantasy Art
+				.collapse.navbar-collapse#main-menu
+					ul.nav.nav-pills.navbar-right
+						li: a(href="/artists") Artists
+						li: a(href="/tutorials") Tutorials
+		
+		.container
+			block content
+
+			.row.footer
+				.col-xs-12
+					p Some footer
+
+		
+		script(src="lib/jquery/dist/jquery.min.js")
+		script(src="lib/bootstrap/dist/js/bootstrap.js")

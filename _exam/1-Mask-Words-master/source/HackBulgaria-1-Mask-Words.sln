@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackBulgaria-1-Mask-Words", "HackBulgaria-1-Mask-Words\HackBulgaria-1-Mask-Words.csproj", "{3EC574FB-4EDF-4040-9F96-0467619B3092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC574FB-4EDF-4040-9F96-0467619B3092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC574FB-4EDF-4040-9F96-0467619B3092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC574FB-4EDF-4040-9F96-0467619B3092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC574FB-4EDF-4040-9F96-0467619B3092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

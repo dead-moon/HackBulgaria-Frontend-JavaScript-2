@@ -1,0 +1,54 @@
+.img-slide {
+	display:block;
+	height: auto;
+	max-width: 100%;
+	margin-bottom: 20px;
+}
+
+.thumbnail img {
+	display:block;
+	height: auto;
+	max-width: 100%;
+}
+
+#main-menu {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#main-menu a {
+	font-size: 22px;
+}
+
+.artist-menu li {
+	font-size: 18px;
+	width: 100%;
+}
+
+.aside-box {
+	border-left: 1px solid #cccccc;
+	height: 100%;
+}
+
+.footer {
+	border-top: 1px solid #cccccc;
+	margin-top: 20px;
+}
+
+.bio {
+	margin-top: 10px;
+}
+
+.bio img{
+	float: left;
+	width: 200px;
+	margin: 5px 20px 0 0;
+	padding: 5px;
+	border: 1px solid #cccccc;
+}
+
+.bio p {
+	font-size: 20px;
+	line-height: 2;
+	text-align: justify;
+}

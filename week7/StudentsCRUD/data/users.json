@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "vasya",
+    "email": "email2@fsf.com",
+    "gitRepo": "",
+    "hobbyProject": ""
+  },
+  {
+    "id": 3,
+    "name": "gosho",
+    "email": "gosho@email.com",
+    "gitRepo": "",
+    "hobbyProject": ""
+  }
+]

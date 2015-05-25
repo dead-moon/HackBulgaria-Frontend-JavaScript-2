@@ -1,0 +1,11 @@
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\bin\Debug\HackBulgaria-3-Query-Language-Over-CSV.exe.config
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\bin\Debug\HackBulgaria-3-Query-Language-Over-CSV.exe
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\bin\Debug\HackBulgaria-3-Query-Language-Over-CSV.pdb
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\obj\Debug\HackBulgaria-3-Query-Language-Over-CSV.exe
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\HackBulgaria-3-Query-Language-Over-CSV\obj\Debug\HackBulgaria-3-Query-Language-Over-CSV.pdb
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\source\HackBulgaria-3-Query-Language-Over-CSV\bin\Debug\HackBulgaria-3-Query-Language-Over-CSV.exe.config
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\source\HackBulgaria-3-Query-Language-Over-CSV\obj\Debug\HackBulgaria-3-Query-Language-Over-CSV.exe
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\source\HackBulgaria-3-Query-Language-Over-CSV\obj\Debug\HackBulgaria-3-Query-Language-Over-CSV.pdb
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\source\HackBulgaria-3-Query-Language-Over-CSV\bin\Debug\HackBulgaria-3-Query-Language-Over-CSV.exe
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\source\HackBulgaria-3-Query-Language-Over-CSV\bin\Debug\HackBulgaria-3-Query-Language-Over-CSV.pdb
+D:\_dev\HackBulgaria\Frontend JS\3-Query-Language-Over-CSV\source\HackBulgaria-3-Query-Language-Over-CSV\obj\Debug\HackBulgaria-3-Query-Language-Over-CSV.csprojResolveAssemblyReference.cache
